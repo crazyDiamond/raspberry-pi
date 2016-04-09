@@ -23,8 +23,7 @@
 •	Each table should have an Edimax WIFI USB adapter. Connect the adapter to one of the USB ports on the Raspberry Pi
 •	On the upper right corner, you should see a network sign that shows you as disconnected. Click on that sign. If you don't see the identified networks you may need to restart Raspbian.
 #### TODO
-•	Join “TheForge” with Password “agileLIVE!”
-•	Open the Epiphany Web Browser and navigate to your favorite coding site.
+Add network details
 
 ## Install Apache Webserver
 * Install the apache 2 package with the following command on Terminal:
