@@ -36,3 +36,15 @@ Add network details
 ## Shut down Raspbian
 * To shut down, go to the Raspbian Menu and select shut down.
 * When prompted, click on OK
+
+## What is XBMC ?
+XBMC (formerly "Xbox Media Center") is a free, open source multimedia player that runs on the first-generation Microsoft Xbox (Not the never XBOX One or 360), as well as on computers running Linux, Mac OS X, and Windows.
+XBMC can be used to play/view the most popular video, audio, and picture formats, and many more lesser-known formats.
+
+
+## Install an XBMC Media Player
+* OpenELEC is short for Open Embeedded Linux Entertainment Center. This is part of the Linux distribution designed to provide a home theater and built on top of KODI, formarly known as XBMC. OpenELEC applies the “Just Enough Operating System” principal. It’s designed to consume fewer resources and boot quickly.
+•	For the sake of convenience, we have downloaded and installed OpenELEC to a micro SD. Each table should have one.
+•	Insert the MicroSD marked OpenELEC into the Raspberry Pi
+•	You will be prompted to choose to boot Raspbian or OpenELEC. Select OpenELEC
+•	Go through the setup steps to configure OpenELEC.
